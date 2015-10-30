@@ -1,5 +1,5 @@
-# AndroidLocalPhotoBrowse
-this is photo browse app ,you can select photo from this app.
-该项目，模仿微信图片浏览器，通过此App，我们可以查看本地的图片，使用的是自己创建的ImageLoader加载图片，
-同时提供了切换图片目录的能力。
-后续会继续完善
+本地图片浏览器
+
+简介：模仿微信的图片浏览器，提供了浏览图片及切换图片目录的功能。
+
+后续会继续完善中。
