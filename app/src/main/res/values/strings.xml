@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">本地图片浏览器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="load">加载中...</string>
+    <string name="no_photo">抱歉，没有发现图片</string>
+    <string name="start">图片浏览器</string>
+</resources>
